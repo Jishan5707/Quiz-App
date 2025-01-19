@@ -1,3 +1,4 @@
+//For each question, the first option should be the correct answer. Don't worry the options are shuffled while displaying them in the question.
 export default [
   {
     id: 'q1',
